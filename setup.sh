@@ -15,4 +15,4 @@ else
   apt-get install python3
   pip install N4Tools
 fi
-chmod +x xht-ip.py && ./xht-ip.py
+chmod +x scan.py && ./scan.py
