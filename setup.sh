@@ -14,5 +14,5 @@ if [[ $v == *"python3"* ]]; then
 else
   apt-get install python3
   pip install N4Tools
-fi
+  pip install requests
 chmod +x scan.py && ./scan.py
